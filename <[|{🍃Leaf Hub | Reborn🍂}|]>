@@ -185,13 +185,6 @@ local Button = MainTab:CreateButton({
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AlgariBot/lua/refs/heads/Lua-Script-Executor/notatimate.txt"))()
    end,
 })
-local Button = MainTab:CreateButton({
-   Name = "❗️NeverPatched Ultimate🤬",
-   Interact = 'Click',
-   Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AlgariBot/lua/refs/heads/Lua-Script-Executor/notatimate.txt"))()
-   end,
-})
 local Tab = Window:CreateTab("Misc", 4483362458) -- Title, Image
 local Button = Tab:CreateButton({
    Name = "🚶‍♂️Old Anims🚶‍♂️",
