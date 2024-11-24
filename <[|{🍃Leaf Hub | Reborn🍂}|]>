@@ -359,7 +359,7 @@ local Button = Tab:CreateButton({
    Name = "<|{🕹️Leaf Hub | GameHub🎮}|>",
    Interact = 'A bunch of scripts in a tab',
    Callback = function()
-				loadstring(game:HttpGet("https://pastebin.com/raw/agRxBJbu"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zcrpted/Leaf-Hub_GameHub/refs/heads/main/%3C%5B%7C%7B🕹%EF%B8%8FLeaf%20Hub%20%7C%20GameHub🎮%7D%7C%5D%3E"))()
    end,
 })
 local Tab = Window:CreateTab("⚠️Test Tab⚠️", 4483362458) -- Title, Image
