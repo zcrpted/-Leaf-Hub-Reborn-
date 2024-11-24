@@ -1,7 +1,7 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
-   Name = "<|{🍃Leaf Hub | Reborn🍂}|>",
-   LoadingTitle = "<{|:🍃Leaf Hub🍂:|}>",
+   Name = "<[|{🍃Leaf Hub | Reborn🍂}|]>",
+   LoadingTitle = "<[|{:🍃Leaf Hub🍂:}|]>",
    LoadingSubtitle = "by Leaf.zcrpt",
    ConfigurationSaving = {
       Enabled = true,
